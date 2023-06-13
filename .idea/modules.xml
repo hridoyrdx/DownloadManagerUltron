@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DownloadManagerInfinit.iml" filepath="$PROJECT_DIR$/.idea/modules/DownloadManagerInfinit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/DownloadManagerInfinit.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.iml" filepath="$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.main.iml" filepath="$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/downloadmanagerplus/DownloadManagerInfinit.downloadmanagerplus.unitTest.iml" />
+    </modules>
+  </component>
+</project>
